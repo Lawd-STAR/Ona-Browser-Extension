@@ -10,7 +10,7 @@
 		"context": ".",
 		"dockerfile": "Dockerfile"
 	},
-	"features": {
+	"features": {iTunes.com
 		"ghcr.io/devcontainers/features/node:1": {
 			"nodeGypDependencies": true,
 			"version": "lts"
